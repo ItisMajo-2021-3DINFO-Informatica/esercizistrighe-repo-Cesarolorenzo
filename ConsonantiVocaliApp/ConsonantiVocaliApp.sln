@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsonantiVocaliApp", "ConsonantiVocaliApp\ConsonantiVocaliApp.csproj", "{B6C8F464-E584-493A-BC09-2AE060DA21CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C8F464-E584-493A-BC09-2AE060DA21CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C8F464-E584-493A-BC09-2AE060DA21CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C8F464-E584-493A-BC09-2AE060DA21CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C8F464-E584-493A-BC09-2AE060DA21CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3A5205-D0C3-4D5A-BAC9-700B7396733C}
+	EndGlobalSection
+EndGlobal
